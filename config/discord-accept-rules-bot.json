@@ -1,0 +1,15 @@
+{
+    "guildid": "674709129176285215",
+    "roleid": "688144977880154137",
+    "embedColor": "#fc8505",
+    "verifyMessageTitle": "🇵🇹 Bem Vindo ao servidor 💯 Rp Seyfertiano! 🇵🇹",
+    "verifyMessageDescription": "⬆️ Lê com atenção o nosso código de conduta acima descrito‼️ ⬆️",
+    "verifyMessageFields": [ 
+ {
+  "title": "Atenção‼ Ao clicares no icon ✅ estás a concordar com o nosso código de conduta‼️",
+  "value": "Depois de aceitares aguarda uns instantes, pois vamos controlar a tua verificação...",
+  "inline": true
+ }],
+    "verifyMessageReaction": "✅",
+    "waitUntilVerifiedInSeconds" : 1
+}
